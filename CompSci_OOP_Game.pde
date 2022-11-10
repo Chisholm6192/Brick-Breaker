@@ -1,7 +1,7 @@
 /*
 Ryan Chisholm
 April 13th 2022
-Computer Science Object Oriented Programming Assignment
+
 Brick Breaker Game
 Built using classes, superclasses, ArrayLists, and functions.
 Has a main menu screen as well as an additional info menu, a restart button, quit button
